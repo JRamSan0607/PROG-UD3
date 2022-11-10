@@ -1,5 +1,3 @@
-import java.util.Random;
-
 public class ActividadNumRandom {
     public static void main (String[]args) {
         int r = (int)(Math.random()*10+1);

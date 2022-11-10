@@ -5,7 +5,7 @@ public class ActividadBreak {
 
             for (int i = 5; i<=25; i++) {
                 if (i%5 == 0) {
-                    System.out.println(i);
+                    System.out.println(r + numFinal);
                     continue;
                 }
 
